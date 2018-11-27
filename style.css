@@ -1,0 +1,47 @@
+body{
+  background-color: black;
+  font-size: 1.5rem;
+}
+
+.container{
+  background-color: #4090d0;
+}
+
+#name{
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.col{
+  text-align: center;
+}
+
+.akcio{
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 3rem;
+}
+
+#bf{
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  border: solid black 2px;
+}
+
+#lenyeg{
+  font-size: 6rem;
+  color: red;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+img{
+  width: 100%;
+}
+
+@media (min-width: 768px){
+.container{
+  margin-top: 6rem;
+}
+}
