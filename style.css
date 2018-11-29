@@ -17,12 +17,6 @@ body{
   text-align: center;
 }
 
-.akcio{
-  text-align: center;
-  font-size: 1.5rem;
-  margin-top: 3rem;
-}
-
 #bf{
   font-size: 2rem;
   margin-bottom: 1rem;
@@ -34,7 +28,6 @@ body{
   font-size: 6rem;
   color: red;
   font-weight: bold;
-  margin-top: 0;
 }
 
 img{
